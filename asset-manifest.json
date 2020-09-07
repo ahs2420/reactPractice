@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ahs2420/reactPractice/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ahs2420/reactPractice/static/js/main.029d164c.chunk.js",
+    "main.js.map": "/ahs2420/reactPractice/static/js/main.029d164c.chunk.js.map",
+    "runtime-main.js": "/ahs2420/reactPractice/static/js/runtime-main.fe3ed8d4.js",
+    "runtime-main.js.map": "/ahs2420/reactPractice/static/js/runtime-main.fe3ed8d4.js.map",
+    "static/js/2.fe9055d9.chunk.js": "/ahs2420/reactPractice/static/js/2.fe9055d9.chunk.js",
+    "static/js/2.fe9055d9.chunk.js.map": "/ahs2420/reactPractice/static/js/2.fe9055d9.chunk.js.map",
+    "index.html": "/ahs2420/reactPractice/index.html",
+    "precache-manifest.5bc7dfade175c21d488eb2b93508ebd0.js": "/ahs2420/reactPractice/precache-manifest.5bc7dfade175c21d488eb2b93508ebd0.js",
+    "service-worker.js": "/ahs2420/reactPractice/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ahs2420/reactPractice/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fe9055d9.chunk.js.LICENSE.txt": "/ahs2420/reactPractice/static/js/2.fe9055d9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ahs2420/reactPractice/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe3ed8d4.js",
+    "static/js/2.fe9055d9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.029d164c.chunk.js"
+  ]
+}
